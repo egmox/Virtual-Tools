@@ -1,0 +1,13 @@
+import javax.swing.*;
+class paneltest
+{
+  public static void main(String asdf[])
+  {
+    JPanel a=new JPanel();
+    a.setLayout(null);
+    JButton b=new JButton();
+    a.add(b);
+    a.setSize(400,400);
+    a.setVisible(true);
+  }
+}

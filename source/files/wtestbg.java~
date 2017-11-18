@@ -1,0 +1,12 @@
+import javax.swing.*;
+import java.awt.*;
+class wtestbg
+{
+  public static void main(String asdf[])
+  {
+    JWindow w1=new JWindow();
+    JWindow w1=new JWindow();
+    JLabel l1=new JLabel();
+    l1.setIcon(new ImageIcon("speak.png"));
+  }
+}
